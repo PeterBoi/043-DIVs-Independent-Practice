@@ -1,0 +1,46 @@
+img {
+    height: 200px;
+    border: 10px double pink;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 20px;
+    border: 20px groove darkred;
+}
+
+.dogs {
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    border: 20px ridge gold;
+}
+
+.cats {
+    background-color: gold;
+    padding: 10px;
+    margin: 10px;
+    border: 20px groove green;
+}
+
+.troy {
+    border: 10px solid orange;
+    padding: 5px;
+    margin: 5px;
+}
+
+.richard {
+    border: 10px dashed magenta;
+    padding: 5px;    
+    margin: 5px;
+}
+
+.duchess {
+    border: 10px dotted grey;
+    padding: 5px;
+    margin: 5px;
+}
+
+body {
+    font-family: 'Island Moments', cursive;
+}
